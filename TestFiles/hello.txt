@@ -1,0 +1,11 @@
+/*Meow 
+comment double Meow*/
+
+public class hello {
+
+	public void main ()
+	{
+		WriteLine();
+		WriteLine("Hello, World");
+	}
+}

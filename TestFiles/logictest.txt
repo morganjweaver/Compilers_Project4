@@ -1,0 +1,27 @@
+/* Complex comparisons:  tests method calls, ifs with & and |, assignment */
+public class logictest {
+
+   public static void outStrln(java.lang.String s) {
+     java.io.PrintStream ps;
+     ps = java.lang.System.out;
+     ps.println(s);
+   }
+
+   public static void main() {
+     int i, j;
+     i = 0;
+     j = 1;
+     logictest.outStrln(“TCCL logic test");
+     if ( i < 10 & j == 1 ) 
+        logictest.outStrln("In then part of & test");
+     else  i = j; 
+     if ( i < 10 & j == 0 ) 
+        logictest.outStrln("In then part of 2nd & test erroneously");
+     else  logictest.outStrln("In else part of 2nd & test"); 
+     if ( i == 10 | j == i) j = i;
+     else  logictest.outStrln("In else part of false | test"); 
+     if ( i == 1 | j == 1) logictest.outStrln("In then part of true | test");
+     else  logictest.outStrln("In else part of true | test erroneously"); 
+     
+   }
+}

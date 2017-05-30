@@ -1,0 +1,32 @@
+public class SemTest {
+   public int p1, p2;
+   public static void testFieldVarDecl(int p) {
+     int w,x,y;
+   }
+
+   public static void outInt(int n) {
+     java.io.PrintStream ps;
+     ps = java.lang.System.out;
+     ps.print(n);
+   }
+
+   public static void main431() {
+     int w,x;
+     x = 3+4; 
+     x = 5*7;
+   }
+
+   public int testIF(int a, int b){
+   int i, j;
+     i = 0;
+     j = 1;
+    if ( i < 10 & j == 1 ) 
+        logictest.outStrln("In then part of & test");
+     else  i = j; 
+	 }
+
+   public int foo() {
+     return testIF();
+   }
+}
+

@@ -1,0 +1,24 @@
+C:\Users\Richard LeBlanc\Dropbox\CPSC 4400\Code for studios and projects\project3 - My version\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+C:\Users\Richard LeBlanc\Dropbox\CPSC 4400\Code for studios and projects\project3 - My version\obj\Debug\TCCL-AST.exe
+C:\Users\Richard LeBlanc\Dropbox\CPSC 4400\Code for studios and projects\project3 - My version\obj\Debug\TCCL-AST.pdb
+C:\Users\Richard LeBlanc\Dropbox\CPSC 4400\Code for studios and projects\project3 - My version\bin\Debug\TCCL-AST.exe.config
+C:\Users\Richard LeBlanc\Dropbox\CPSC 4400\Code for studios and projects\project3 - My version\bin\Debug\TCCL-AST.exe
+C:\Users\Richard LeBlanc\Dropbox\CPSC 4400\Code for studios and projects\project3 - My version\bin\Debug\TCCL-AST.pdb
+C:\Users\Morgan\Documents\Master's HW\Compilers_Proj3\bin\Debug\TCCL-AST.exe.config
+C:\Users\Morgan\Documents\Master's HW\Compilers_Proj3\bin\Debug\TCCL-AST.exe
+C:\Users\Morgan\Documents\Master's HW\Compilers_Proj3\bin\Debug\TCCL-AST.pdb
+C:\Users\Morgan\Documents\Master's HW\Compilers_Proj3\obj\Debug\TCCL-AST.exe
+C:\Users\Morgan\Documents\Master's HW\Compilers_Proj3\obj\Debug\TCCL-AST.pdb
+C:\Users\Morgan\Documents\Master's HW\Compilers_Proj3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+C:\Users\Morgan\Documents\Master's HW\Compilers_Proj4\bin\Debug\TCCL-AST.exe.config
+C:\Users\Morgan\Documents\Master's HW\Compilers_Proj4\obj\Debug\TCCL-AST.exe
+C:\Users\Morgan\Documents\Master's HW\Compilers_Proj4\obj\Debug\TCCL-AST.pdb
+C:\Users\Morgan\Documents\Master's HW\Compilers_Proj4\bin\Debug\TCCL-AST.exe
+C:\Users\Morgan\Documents\Master's HW\Compilers_Proj4\bin\Debug\TCCL-AST.pdb
+C:\Users\Morgan\Documents\Master's HW\Compilers_Proj4\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+C:\Users\Morgan\Documents\Masters_HW\Compilers_Proj4\bin\Debug\TCCL-AST.exe.config
+C:\Users\Morgan\Documents\Masters_HW\Compilers_Proj4\obj\Debug\TCCL-AST.exe
+C:\Users\Morgan\Documents\Masters_HW\Compilers_Proj4\obj\Debug\TCCL-AST.pdb
+C:\Users\Morgan\Documents\Masters_HW\Compilers_Proj4\bin\Debug\TCCL-AST.exe
+C:\Users\Morgan\Documents\Masters_HW\Compilers_Proj4\bin\Debug\TCCL-AST.pdb
+C:\Users\Morgan\Documents\Masters_HW\Compilers_Proj4\obj\Debug\Project3.csprojResolveAssemblyReference.cache
